@@ -1,0 +1,30 @@
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.exe
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.deps.json
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.runtimeconfig.json
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.pdb
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.AssemblyReference.cache
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfoInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfo.cs
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.CoreCompileInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\refint\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.pdb
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.genruntimeconfig.cache
+E:\MATIAS\INFORMATICA\CURSOS\EDUCACION IT\NET CORE MVC\CLASE 3\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ref\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.exe
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.deps.json
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.runtimeconfig.json
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\bin\Debug\net6.0\ExerciseOne.pdb
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.AssemblyReference.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfoInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfo.cs
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.CoreCompileInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\refint\ExerciseOne.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.pdb
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ExerciseOne.genruntimeconfig.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\ExerciseOne\obj\Debug\net6.0\ref\ExerciseOne.dll
