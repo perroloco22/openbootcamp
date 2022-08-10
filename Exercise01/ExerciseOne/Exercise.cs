@@ -80,5 +80,27 @@ namespace ExerciseOne
             }
         }
 
+                
+    }
+
+    //Session 3 Data Structures
+
+    public struct Client
+    {
+        public string CompletName { get; set; }
+        public string phone { get; set; }
+        public string Direction { get; set; }
+        public string Email { get; set; }
+        public bool IsNew { get; set; }
+        
+
+        public Client(string completName, string phone, string direction, string email, bool isNew)
+        {
+            CompletName = completName;
+            this.phone = phone;
+            Direction = direction;
+            Email = email;
+            IsNew = isNew;
+        }
     }
 }
