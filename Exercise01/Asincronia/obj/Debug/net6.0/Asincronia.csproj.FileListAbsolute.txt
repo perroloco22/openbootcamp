@@ -1,0 +1,15 @@
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\bin\Debug\net6.0\Asincronia.exe
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\bin\Debug\net6.0\Asincronia.deps.json
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\bin\Debug\net6.0\Asincronia.runtimeconfig.json
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\bin\Debug\net6.0\Asincronia.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\bin\Debug\net6.0\Asincronia.pdb
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.csproj.AssemblyReference.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.AssemblyInfoInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.AssemblyInfo.cs
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.csproj.CoreCompileInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\refint\Asincronia.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.pdb
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\Asincronia.genruntimeconfig.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Exercise01\Asincronia\obj\Debug\net6.0\ref\Asincronia.dll

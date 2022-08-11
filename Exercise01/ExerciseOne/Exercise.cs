@@ -78,9 +78,50 @@ namespace ExerciseOne
             {
                 Console.WriteLine("valid number or char");
             }
+
+        }
+        #region Bucles1
+        //exercise 1
+        public static void Mult(int i)
+        {
+            int cont = 1;
+            while (cont <= 10)
+            {
+                Console.WriteLine($" {cont} X {i} = {cont * i} ");
+            }
+        }
+        //exercise 2
+        public static void IsPositive()
+        {
+            int zero = 0;
+            int amountPositive = 0;
+            int amountNegative = 0;
+            int cont = 1;
+            do
+            {
+                Console.WriteLine("enter number");
+                int number = Convert.ToInt32(Console.ReadLine());
+                if (number == 0){ zero++;}
+                else if (number > 0){ amountPositive++; }
+                else { amountNegative++; }
+                cont++;
+            } while (cont <=3 );
+            Console.WriteLine($"amount positive: {amountPositive}, amount Negative: {amountNegative}, amount zero: {zero}");
         }
 
-                
+        
+
+
+        #endregion
+        //metodosII
+        //factorial
+
+        public static int Factorial(int n)
+        {
+            if(n==1 || n==0) return 1;
+            return n * Factorial(n - 1); 
+        }
+
     }
 
     //Session 3 Data Structures

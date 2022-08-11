@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseOne", "ExerciseOne\ExerciseOne.csproj", "{46E9E5D0-9159-47EC-AC40-C1FEC1F47A8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseOne", "ExerciseOne\ExerciseOne.csproj", "{46E9E5D0-9159-47EC-AC40-C1FEC1F47A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asincronia", "Asincronia\Asincronia.csproj", "{B4A58ECD-5ABE-4AB7-B4CF-32C119A9901F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{46E9E5D0-9159-47EC-AC40-C1FEC1F47A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46E9E5D0-9159-47EC-AC40-C1FEC1F47A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46E9E5D0-9159-47EC-AC40-C1FEC1F47A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A58ECD-5ABE-4AB7-B4CF-32C119A9901F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A58ECD-5ABE-4AB7-B4CF-32C119A9901F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A58ECD-5ABE-4AB7-B4CF-32C119A9901F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A58ECD-5ABE-4AB7-B4CF-32C119A9901F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
